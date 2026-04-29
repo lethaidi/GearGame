@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Main
+  - Other
+  - SnapZone1
+  - SnapZone2
+  - Store
+  - Platform
+  - DelZone
+  - Bridge
+  - Enemy
+  - Ally
+  - Bin
+  - GearBought
+  - Coin
+  - CropCoin
+  - Gear+1
+  - Gear+2
+  - Gear+4
+  - Gear+8
+  - Attacker
+  - Weapons
+  - DiaMond
+  - GreenCoin
+  - Gem
+  - Chest
+  - Boomerang
+  - Acorn
+  - Fire
+  - Rock
+  - Missile
+  - Stick
+  - Shuriken
+  - TNT
+  - Pack
+  - ButtonEquip
+  - GuideOutSide
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - DropZone
+  - Draggable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
